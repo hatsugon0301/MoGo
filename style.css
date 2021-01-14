@@ -30,8 +30,6 @@ img{
   margin: auto;
 }
 
-
-/* ｐｃスタイル */
 /* ヘッダー */
 header, header a{
   color: #fff
@@ -152,7 +150,7 @@ header, header a{
   top: -25px;
   left: 0;
 }
-/* メイン */
+
 /* セクション１ */
 section{
   margin-top: 88px;
@@ -214,7 +212,7 @@ justify-content: space-between;
   font-size: 1.8rem;
   color: #fff;
 } 
-/* 横幅いっぱい */
+
 .bg-sidefull{
   width: 100%;
   background-color: #95e1d3;
@@ -449,7 +447,6 @@ justify-content: space-between;
 
 .item6{
   position: relative;
-  
 }
 .gridontext01{
   position: absolute;
@@ -462,7 +459,6 @@ justify-content: space-between;
   background-image: url(img/PICTURE.png);
   background-repeat: no-repeat;
   background-position: center 0;
-  
 }
 
 .gridontext02{
@@ -472,7 +468,6 @@ justify-content: space-between;
   font-size: 1.4rem;
   font-style: italic;
   color: #fff
-
 }
 .six .comment{
   padding: 70px 10% 0px 14%;
@@ -595,7 +590,6 @@ padding: 0;
   padding-bottom: 80px;
   background-image: url(img/bg-map.jpg);
   text-align: center;
-
 }
 .map{
   position: relative;
